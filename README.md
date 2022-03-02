@@ -1,4 +1,4 @@
-### Hello Guys! I'm Nathalia Câmara 👋 <img src="https://github.com/iltonkp/iltonkp/blob/main/src/wave.gif" width="25px">
+### Hello Guys! I'm Nathalia Câmara 👋 <img src="https://github.com/nathaliacamara/nathaliacamara/blob/main/src/wave.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/-Nathalia%20Câmara-038bc1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nathaliacâmara)
 
 ## About me
