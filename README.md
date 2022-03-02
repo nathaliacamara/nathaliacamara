@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at CI&T as a QA Engineer.
 - 🎓 Graduation: Software Development
 - ⚡ Certified Tester - ISTQB - CTFL
-- 📫 How to reach me:nathalia.camaraqa@gmail.com
+- 📫 How to reach me: nathalia.camaraqa@gmail.com
 - 😄 Pronouns: She/Her
 
 <div>
