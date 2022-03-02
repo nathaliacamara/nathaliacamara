@@ -27,8 +27,5 @@
   
   ##
   
-
-[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nathaliacamara?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
-  
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
