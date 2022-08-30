@@ -9,11 +9,7 @@
 - 📫 How to reach me: nathalia.camara@hotmail.com
 - 😄 Pronouns: She/Her
 
-<div>
-  <a href="https://github.com/nathaliacamara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliacamara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliacamara&layout=compact&langs_count=7&theme=dracula"/>
-</div>  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Nathy-cucumber" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="Nathy-jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
