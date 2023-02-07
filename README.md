@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at CI&T as a QA Engineer.
 - 🎓 Graduation: Software Development
 - ⚡ Certified Tester - ISTQB - CTFL
-- 📫 How to reach me: nathalia.camara@hotmail.com
+- 📫 How to reach me: <a href = "nathalia.camara@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>     
 - 😄 Pronouns: She/Her
 
   
@@ -26,7 +26,7 @@
   <img align="center" alt="Nathy-bitbucket" height="30" width="40" src="https://icongr.am/devicon/bitbucket-original.svg?size=128&color=currentColor">
   <img align="center" alt="Nathy-docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
   <img align="center" alt="Nathy-Gitlab" height="30" width="40" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColor">
-   <img align="center" alt="Nathy-Jest" height="30" width="40" src="https://jestjs.io/pt-BR/">
+   <img align="center" alt="Nathy-Jest" height="30" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
   
     
   ##
