@@ -26,7 +26,8 @@
   <img align="center" alt="Nathy-bitbucket" height="30" width="40" src="https://icongr.am/devicon/bitbucket-original.svg?size=128&color=currentColor">
   <img align="center" alt="Nathy-docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
   <img align="center" alt="Nathy-Gitlab" height="30" width="40" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColor">
-   <img align="center" alt="Nathy-Jest" height="30" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
+  <img align="center" alt="Nathy-Jest" height="30" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
+  <img align="center" alt="Nathy-postman" height="30" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
   
     
   ##
