@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at CI&T as a QA Engineer.
 - 🎓 Graduation: Software Development
 - ⚡ Certified Tester - ISTQB - CTFL
-- 📫 How to reach me: <a href = "nathalia.camara@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" min-width="80px" max-width="100px" width="80px"></a>     
+- 📫 How to reach me: nathalia.camara@hotmail.com   
 - 😄 Pronouns: She/Her
 
   
