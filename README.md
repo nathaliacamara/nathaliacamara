@@ -20,12 +20,13 @@
   <img align="center" alt="Nathy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nathy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nathy-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Nathy-cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
-  <img align="center" alt="Nathy-postgres" height="30" width="40"src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
+  <img align="center" alt="Nathy-cypress" height="30" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
+  <img align="center" alt="Nathy-selenium" height="30" width="40"src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
   <img align="center" alt="Nathy-mocha" height="30" width="40" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
   <img align="center" alt="Nathy-bitbucket" height="30" width="40" src="https://icongr.am/devicon/bitbucket-original.svg?size=128&color=currentColor">
   <img align="center" alt="Nathy-docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Nathy-docker" height="30" width="40" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Nathy-Gitlab" height="30" width="40" src="https://icongr.am/devicon/gitlab-original-wordmark.svg?size=128&color=currentColor">
+   <img align="center" alt="Nathy-Jest" height="30" width="40" src="https://jestjs.io/pt-BR/">
   
     
   ##
